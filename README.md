@@ -38,7 +38,8 @@ print("a =", a)
 print("b =", b)
 
 ```
-##OUTPUT :
+## OUTPUT :
+
 <img width="602" height="347" alt="image" src="https://github.com/user-attachments/assets/1f6e7e00-5ff4-44c9-834a-59bf3e3f1665" />
 
 
