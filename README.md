@@ -18,6 +18,29 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+# Python program for swapping two values
+
+a = int(input("Enter first value: "))
+b = int(input("Enter second value: "))
+
+print("Before swapping:")
+print("a =", a)
+print("b =", b)
+
+# Swapping using temporary variable
+temp = b
+b = a
+a = temp
+
+print("After swapping:")
+print("a =", a)
+print("b =", b)
+
+```
+##OUTPUT :
+<img width="602" height="347" alt="image" src="https://github.com/user-attachments/assets/1f6e7e00-5ff4-44c9-834a-59bf3e3f1665" />
+
 
 
 
